@@ -1,6 +1,7 @@
 package gameticket_package;
 
 public class Seat {
+
     private int seatNum,seatPrice;
     private boolean availability;
 
